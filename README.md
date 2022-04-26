@@ -1,1 +1,1 @@
-# Conversor-PDF-2-PNG
+# Conversor PDF-2-PNG
