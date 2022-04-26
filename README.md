@@ -18,17 +18,12 @@ Converte documento (.pdf), contendo apenas uma página, para imagem (.png)
 ### Requisitos
 
 #### Bibliotecas
-tk
-
-fitz (ou pymupdf)
-
-Pillow
-
-fontTools
-
-pymupdf-fonts
-
-Tesseract-OCR (opcional)
+`tk`
+`fitz (ou pymupdf)`
+`Pillow`
+`fontTools`
+`pymupdf-fonts`
+`Tesseract-OCR (opcional)`
 
 #### Softwares
-Python 3.7.12
+`Python 3.7.12`
