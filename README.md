@@ -17,10 +17,15 @@ Converte documento (.pdf), contendo apenas uma página, para imagem (.png)
 
 #### Bibliotecas
 tk
+
 fitz (ou pymupdf)
+
 Pillow
+
 fontTools
+
 pymupdf-fonts
+
 Tesseract-OCR (opcional)
 
 #### Softwares
