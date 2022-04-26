@@ -1,0 +1,19 @@
+# Conversor PDF-2-PNG
+
+Converte documento (.pdf), contendo apenas uma página, para imagem (.png)
+
+### Instruções
+
+> - Baixe todas as pastas e guarde em local de fácil acesso.
+
+
+> - Após baixar tudo, acesse a pasta 'dist' e procure pelo arquivo 'Coversorpdf2png.exe'
+> > Execute o arquivo.
+
+
+> - Quando a janela do conversor abrir, clique em 'Selecionar o Arquivos', escolha o arquivo (.pdf), abra, e clique em 'Converter'
+> > Após isso, o arquivo com o nome 'pdf2img.png' estará no mesmo local do arquivo .exe, ou seja, a pasta dist.
+
+
+### Requisitos
+Windows 10
