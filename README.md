@@ -30,6 +30,6 @@ Converte documento (.pdf), contendo apenas uma página, para imagem (.png)
 
 ### Versão Portátil
 
-- [Conversor PDF-2-IMG](https://drive.google.com/file/d/1qg3sYGnnU4Ug22Rqq2JGBOKf7WKSD7Rx/view?usp=sharing)
+- [Conversor PDF-2-IMG](https://drive.google.com/file/d/19YHGm8jVjC-Ah9dSibsgpZZLk5UQid-w/view?usp=sharing)
 
 É só baixar e usar!
