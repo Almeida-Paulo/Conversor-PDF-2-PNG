@@ -28,7 +28,7 @@ Converte documento (.pdf), contendo apenas uma página, para imagem (.png)
 #### Softwares
 `Python 3.7.12`
 
-#### Versão portátil
+### Versão Portátil
 
 - [Conversor PDF-2-IMG](https://drive.google.com/file/d/1qg3sYGnnU4Ug22Rqq2JGBOKf7WKSD7Rx/view?usp=sharing)
 
